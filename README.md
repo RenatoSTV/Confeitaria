@@ -1,2 +1,2 @@
 # Confeitaria
- Pequeno projeto de um site de confeitaria
+ Pequeno projeto de um site de confeitaria.
