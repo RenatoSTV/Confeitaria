@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(56, 180, 211);
+}
+
+header {
+  text-align: center;
+  color: rgb(4, 3, 14);
+  font-size: 80px;
+  font-family: "Birthland";
+}
+div {
+  width: 300px;
+  height: 400px;
+  
+  border-radius: 15px;
+  
+}
+button {
+  height: 80px;
+  width: 300px;
+  
+  border-radius: 20px;
+  background-color: lightblue;
+  text-align: center;
+  font-family: "Birthland";
+  font-size: 25px;
+}
+button:hover {
+  color: white;
+  background-color: rgb(30, 177, 96);
+}

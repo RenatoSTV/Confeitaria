@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(56, 180, 211);
+}
+button {
+  background-color: turquoise;
+  border: 2px solid rgb(140, 233, 171);
+  text-align: center;
+  color: rgb(4, 3, 14);
+  font-size: 30px;
+  font-family: "Birthland";
+  position: absolute;;
+  border-radius: 5px;
+}
+div {
+  background-color: turquoise;
+  font-family: "Birthland";
+  font-size: 80px;
+  color: black;
+  height: 75px;
+}
+img {
+  border-radius: 200px;
+  width: 350px;
+  height: 350px;
+}
+header {
+  background-color: turquoise;
+  text-align: center;
+  font-family: "Birthland";
+  font-size: 75px;
+  border-radius: 10px;
+  
+}
+b {
+  font-size: 35px;
+}
+p{
+  background-color: turquoise;
+  text-align: center;
+  font-family: "Birthland";
+  font-size: 75px;
+  border-radius: 10px;
+}
+p:hover{
+  background-color: rgb(158, 231, 224);
+}
+button:hover{
+  background-color:rgb(158,231,224);
+}
