@@ -1,19 +1,20 @@
 body {
-  background-color: rgb(56, 180, 211);
+  background-color: #e67300;
 }
 button {
-  background-color: turquoise;
-  border: 2px solid rgb(140, 233, 171);
+  background-color: rgb(228, 178, 85);
+  border: 2px solid rgba(15, 13, 10, 0.322);
   text-align: center;
   color: rgb(4, 3, 14);
   font-size: 30px;
-  font-family: "Birthland";
-  position: absolute;;
+  font-family: "Dancing Script";
+  position: absolute;
   border-radius: 5px;
+  text-decoration: underline;
 }
 div {
-  background-color: turquoise;
-  font-family: "Birthland";
+  background-color: rgb(228, 178, 85);
+  font-family: "Dancing Script";
   font-size: 80px;
   color: black;
   height: 75px;
@@ -24,26 +25,25 @@ img {
   height: 350px;
 }
 header {
-  background-color: turquoise;
+  background-color: rgb(228, 178, 85);
   text-align: center;
-  font-family: "Birthland";
+  font-family: "Dancing Script";
   font-size: 75px;
   border-radius: 10px;
-  
 }
 b {
   font-size: 35px;
 }
-p{
-  background-color: turquoise;
+p {
+  background-color: rgb(228, 178, 85);
   text-align: center;
-  font-family: "Birthland";
+  font-family: "Dancing Script";
   font-size: 75px;
   border-radius: 10px;
 }
-p:hover{
-  background-color: rgb(158, 231, 224);
+p:hover {
+  background-color: rgb(207, 145, 30);
 }
-button:hover{
-  background-color:rgb(158,231,224);
+button:hover {
+  background-color: rgb(207, 145, 30);
 }
